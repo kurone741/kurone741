@@ -2,6 +2,8 @@
 
 i like to doomscroll, tech larp, and rice hyprland
 
+![keyboard](./kbd.gif)
+
 i
 - use arch, btw
 - build websites and apps

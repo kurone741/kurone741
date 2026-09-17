@@ -1,4 +1,4 @@
-# hey, it's kurone
+# hello
 
 i like to doomscroll, tech larp, and rice hyprland
 

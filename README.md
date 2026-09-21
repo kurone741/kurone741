@@ -13,3 +13,7 @@ currently learning/want to learn:
 - android development/sdk
 - gradle
 - c++
+- ui/ux
+- openscad
+- kicad
+- git

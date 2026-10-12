@@ -2,7 +2,7 @@
 
 i'm working on:
 - website
-- omi pcb
+- tamago pcb
 
 currently learning/want to learn:
 - react
